@@ -4,7 +4,7 @@ if (!defined('HS')) {
     die('Tidak boleh diakses langsung.');
 }
 
-$token = '397738012:AAH27Fg5IOO7PuMkGO1rgbv2JM9ZoDNvhIk';
+$token = '339130763:AAFmLmCwvwxX_KrNFNUBR3TbTJ9y9MjSUQg';
 $debug = true;
 
 $chatid = '213567634';
